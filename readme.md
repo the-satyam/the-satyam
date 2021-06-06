@@ -26,6 +26,7 @@ Self-learning technical geek && AI/ML Enthusiast, looking for problem to solve i
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br>
 <h2>📊 Github Stats:</h2>
 <img src ="https://github-readme-stats.vercel.app/api?username=the-satyam" alt= "Satyam's Stat" />
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=the-satyam" alt= "Satyam's card" align ="right" />
 <br>
 <h2> 📬 Connect with me. </h2>
 
