@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-<h2> Hi, I'm Satyam <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="75"> </h2>
+<h2> Hi, I'm Satyam <img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="75"> </h2>
 
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 
 A Computer Science student with proficient problem-solving skill, looking to transform business requirements into technical solutions.<br>
 Self-learning technical geek && AI/ML Enthusiast, looking for problem to solve in .<br>
-<h2> ⚙ Tools and Languages:n </h2>
+<h2> ⚙ Tools and Languages: </h2>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
